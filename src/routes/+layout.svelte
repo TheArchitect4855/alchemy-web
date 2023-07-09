@@ -66,4 +66,8 @@
 	:global(h4, h5, h6) {
 		color: var(--subtitle-color);
 	}
+
+	:global(main) {
+		padding: 16px;
+	}
 </style>
