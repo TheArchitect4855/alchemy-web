@@ -66,14 +66,16 @@
     .wrapper {
       min-height: 100vh;
       min-height: 100lvh;
+
+      display: flex;
+      align-items: center;
+      justify-content: center;
     }
 
     main {
-      aspect-ratio: 1.618;
       border-radius: 16px;
-      margin: 10vh auto;
+      display: inline-block;
       max-height: 80vh;
-      max-width: 80vw;
     }
   }
 
