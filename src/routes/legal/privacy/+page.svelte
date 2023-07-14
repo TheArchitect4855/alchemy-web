@@ -120,7 +120,7 @@
   information such as "which members of your platform are _____?").
 </p>
 
-<h2>6. Your Rights and Choices.</h2>
+<h2 id="rights">6. Your Rights and Choices.</h2>
 <p>
   You're in control of your information. Below is a list of the options and
   tools available to you regarding your information:
