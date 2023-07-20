@@ -4,6 +4,10 @@
   </h2>
   <div class="content">
     <section>
+      <h4>Contact</h4>
+      <a href="/contact">Contact Us</a>
+    </section>
+    <section>
       <h4>Legal</h4>
       <a href="/legal/tos">Terms of Service</a>
       <a href="/legal/privacy">Privacy Policy</a>
@@ -16,7 +20,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    flex-direction: column;
+    flex-direction: row;
     flex-wrap: wrap;
   }
 
