@@ -15,8 +15,7 @@
 <h2>1. Who We Are.</h2>
 <p>
   Alchemy <br />
-  769 Fordham Rd <br />
-  Kelowna, BC V1W 1P3 <br />
+  Kelowna, BC <br />
   Canada
 </p>
 

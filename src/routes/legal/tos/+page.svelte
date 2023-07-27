@@ -3,8 +3,7 @@
 <p>These Terms of Service apply between you and:</p>
 <p>
   Alchemy<br />
-  769 Fordham Rd<br />
-  Kelowna, BC V1W 1P3<br />
+  Kelowna, BC<br />
   Canada
 </p>
 
