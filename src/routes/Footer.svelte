@@ -13,6 +13,7 @@
       <a href="/legal/privacy">Privacy Policy</a>
     </section>
   </div>
+  <div class="small">Google Play and the Google Play logo are trademarks of Google LLC.</div>
 </footer>
 
 <style>
@@ -36,6 +37,12 @@
   .content h4 {
     color: white;
     margin: 0;
+  }
+
+  .small {
+    font-size: 0.7rem;
+    padding: 8px;
+    text-align: center;
   }
 
   footer {

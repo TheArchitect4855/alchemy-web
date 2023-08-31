@@ -33,7 +33,22 @@
         </p>
 
         <h3>Interested?</h3>
-        <span>Coming soon to Android and iOS.</span>
+        <div class="badges">
+          <a href="https://web.usealchemy.app" target="_blank">
+            <img
+              alt="iOS Link"
+              src="/ios-badge.svg"
+              style="height: 3.3em;"
+            />
+          </a>
+          <a href='https://play.google.com/store/apps/details?id=app.usealchemy.alchemy&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1' target='_blank'>
+            <img
+              alt='Get it on Google Play'
+              src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'
+              style="height: 5em;"
+            />
+          </a>
+        </div>
       </div>
     </main>
   </div>
@@ -77,6 +92,12 @@
       display: inline-block;
       max-height: 80vh;
     }
+  }
+
+  .badges {
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
 
   .container {
