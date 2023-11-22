@@ -17,6 +17,7 @@
     margin: 5rem auto;
     max-width: 60ch;
     min-height: calc(100vh - 5rem);
+    padding: 1em;
     text-align: justify;
   }
 
