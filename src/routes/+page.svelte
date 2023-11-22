@@ -14,18 +14,32 @@
 			</h4>
 
 			<p>
-				Neurodiverse people <i>date differently.</i> In most cases, this makes
-				finding "the one" much more difficult simply because of our different
-				approach. <br /> Alchemy aims to fix this: It creates a safe and accepting
-				environment for neurodiverse individuals to date like-minded people who
-				understand the things that make them different.
+				Neurodiverse people <i>date differently.</i> In
+				many cases, this makes finding "the one"
+				more challenging simply because of our
+				unique approach to socializing.
 			</p>
 
 			<p>
-				You don't have to be neurodiverse to use Alchemy - You just have to be
-				understanding and supportive of the struggles neurodiverse people face
-				in dating.
+				<b>Alchemy aims to fix this.</b> It is:
 			</p>
+			<ul>
+				<li>A safe and accepting environment for neurodiverse individuals to date.</li>
+				<li>A platform to connect with like-minded people who understand the things that make neurodiverse people unique.</li>
+			</ul>
+
+			<h3>Who Is Alchemy For?</h3>
+			<ul>
+				<li>
+					Neurodiverse people who struggle to
+					form connections through traditional
+					means.
+				</li>
+				<li>
+					Allies who understand and support
+					neurodiverse people.
+				</li>
+			</ul>
 
 			<h3>Interested?</h3>
 			<div class="badges">
@@ -100,5 +114,15 @@
 		box-shadow: 0 0 8px 0 #0005;
 		overflow: auto;
 		width: min(60ch, 100vw);
+	}
+
+	ul {
+		margin: 1em auto;
+		max-width: 30ch;
+		text-align: left;
+	}
+
+	ul > li {
+		margin: 0.5em 0;
 	}
 </style>
