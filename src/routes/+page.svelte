@@ -45,13 +45,6 @@
 			<h2>Interested?</h2>
 			<b>Be Different.</b>
 			<div class="badges">
-				<a href="https://web.usealchemy.app" target="_blank">
-					<img
-					alt="iOS Link"
-					src="/ios-badge.svg"
-					style="height: 3.3em;"
-					/>
-				</a>
 				<a href='https://play.google.com/store/apps/details?id=app.usealchemy.alchemy&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1' target='_blank'>
 					<img
 					alt='Get it on Google Play'
