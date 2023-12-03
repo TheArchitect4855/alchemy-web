@@ -9,22 +9,23 @@
 			<HeroIcon />
 			<h1>Welcome</h1>
 			<h4>
-				Alchemy is the new dating app, made specifically for neurodiverse
-				people.
+				Alchemy is the new social app,
+				designed by neurodiverse people
+				for neurodiverse people.
 			</h4>
 
 			<p>
-				Neurodiverse people <i>date differently.</i> In
-				many cases, this makes finding "the one"
-				more challenging simply because of our
-				unique approach to socializing.
+				Neurodiverse people are different, in so many amazing ways.
+				However, in many cases this makes dating, making friends,
+				or simply meeting new people more challenging because of our
+				unique approach to socialization and communication.
 			</p>
 
 			<p>
 				<b>Alchemy aims to fix this.</b> It is:
 			</p>
 			<ul>
-				<li>A safe and accepting environment for neurodiverse individuals to date.</li>
+				<li>A safe and accepting environment for neurodiverse individuals to meet new people, make friends, and date.</li>
 				<li>A platform to connect with like-minded people who understand the things that make neurodiverse people unique.</li>
 			</ul>
 
@@ -32,7 +33,7 @@
 			<ul>
 				<li>
 					Neurodiverse people who struggle to
-					form connections through traditional
+					form connections through more traditional
 					means.
 				</li>
 				<li>
@@ -41,15 +42,9 @@
 				</li>
 			</ul>
 
-			<h3>Interested?</h3>
+			<h2>Interested?</h2>
+			<b>Be Different.</b>
 			<div class="badges">
-				<a href="https://web.usealchemy.app" target="_blank">
-					<img
-					alt="iOS Link"
-					src="/ios-badge.svg"
-					style="height: 3.3em;"
-					/>
-				</a>
 				<a href='https://play.google.com/store/apps/details?id=app.usealchemy.alchemy&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1' target='_blank'>
 					<img
 					alt='Get it on Google Play'
